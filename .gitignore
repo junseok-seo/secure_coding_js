@@ -9,3 +9,8 @@
 
 /db-maria/db/data/
 
+
+# misc
+
+.DS_Store
+
